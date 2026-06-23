@@ -1,6 +1,6 @@
 # Hi there, I'm Tshiamo Moshoeu
 
-I am a Computer Sciencee final student passionate about software development and mobile computing. I enjoy building real-world applications using modern technologies and continuously improving my skills in software engineering.
+I am a Computer Sciencee final-year student passionate about software development and mobile computing. I enjoy building real-world applications using modern technologies and continuously improving my skills in software engineering.
 
 Currently seeking an internship / WIL opportunity as part of my qualification completion.
 
