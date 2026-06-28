@@ -87,3 +87,21 @@ Repository: https://github.com/TshiamoMoshoeu/int
   <li>JWT Authentication</li>
   <li>JPA / Hibernate</li>
 </ul>
+
+# Personal Projects
+## Job Tracker App
+
+Repository: https://github.com/TshiamoMoshoeu/job-tracker-app
+
+A full-stack job tracking system that helps users manage job applications.
+
+**Features:**
+- Add, view, and delete job applications
+- Filter jobs by status (Applied, Interview, Offer, Rejected)
+- Dashboard statistics
+- React frontend
+- Spring Boot REST API backend
+- PostgreSQL database integration
+
+**Tech Stack:**
+React • Spring Boot • PostgreSQL • Axios • REST API
